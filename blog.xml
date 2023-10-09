@@ -1,0 +1,20 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>{{ site.title }}</title>
+		<description>{{ site.project_summary }}</description>
+		<link>{{ site.url }}</link>
+		<language>en-us</language>
+		<atom:link href="{{ site.url }}/blog.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.posts limit:50 %}{% if post.title != null %}<item>{% assign content = post.content %}{% assign content = content | truncate: 500 %}{% assign content = content | strip_html %}
+				<title>{{ post.title }}</title>
+				<description><![CDATA[{{ content }}]]></description>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+				<link>{{ site.url }}{{ post.url }}</link>
+				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+			</item>{% endif %}{% endfor %}
+	</channel>
+</rss>
