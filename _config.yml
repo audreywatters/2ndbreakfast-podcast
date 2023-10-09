@@ -1,5 +1,5 @@
 # Build Settings
-
+markdown: kramdown
 highlighter: rouge
 
 # Site settings
@@ -31,7 +31,7 @@ baseurl: ""
 #twitter_handle: '@contrafabulists'
 
 # social icons and sharing options
-# social:
+social:
 #  - icon:   twitter
 #    url:    https://twitter.com/contrafabulists
 #    desc: Follow me on twitter
