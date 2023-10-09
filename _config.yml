@@ -8,7 +8,7 @@ description: "Welcome to the Second Breakfast, where we talk about food and fitn
 alt_description: "A Hack Education Production"
 subtitle: "Stories"
 
-email: audrey.watters@gmail.com.com
+email: "audrey.watters@gmail.com"
 logo: "/assets/images/egg.jpg"
 logo2: "/assets/images/egg3.png"
 cover: "/assets/images/egg2.jpg"
@@ -23,7 +23,7 @@ keywords: 'technology, politics, sports, fitness, food'
 
 paginate:	5
 paginate_path: "/blog/page:num"
-permalink: /:categories/:year/:month/:day/:title
+permalink: "/:categories/:year/:month/:day/:title"
 
 url: "http://2ndbreakfast.me" # the base hostname & protocol for your site
 baseurl: ""
