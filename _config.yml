@@ -9,14 +9,14 @@ alt_description: "How We Get Through the Mo(u)rning"
 subtitle: "Stories"
 
 email: "audrey.watters@gmail.com"
-logo: "/assets/images/egg3.png"
+logo: "/assets/images/egg.png"
 logo2: "/assets/images/egg.png"
-cover: "/assets/images/egg2.jpeg"
+cover: 
 covercredits: "http://2ndbreakfast.substack.com"
 
 name: 'Second Breakfast'
 author: 'Audrey Watters'
-author_image: "/assets/images/author.png"
+author_image: "/assets/images/author.jpg"
 author_email: "audrey.watters@gmail.com"
 
 keywords: 'technology, politics, sports, fitness, food'
