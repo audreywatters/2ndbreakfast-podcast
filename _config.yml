@@ -5,11 +5,11 @@ highlighter: rouge
 # Site settings
 title: "The Second Breakfast Podcast"
 description: "Welcome to the Second Breakfast, where we talk about food and fitness technologies, about moving and monitoring our bodies."
-alt_description: "A Hack Education Production"
+alt_description: "How We Get Through the Mo(u)rning"
 subtitle: "Stories"
 
 email: "audrey.watters@gmail.com"
-logo: "/assets/images/egg.jpg"
+logo: "/assets/images/egg.png"
 logo2: "/assets/images/egg3.png"
 cover: "/assets/images/egg2.jpg"
 covercredits: "http://2ndbreakfast.substack.com"
