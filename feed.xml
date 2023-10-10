@@ -18,7 +18,7 @@ layout: null
       <title>{{ site.title }}</title>
       <link>{{ site.url }}</link>
     </image>
-    <itunes:image href="https://audreywatters.s3.amazonaws.com/second-breakfast-600.jpeg" />
+    <itunes:image href="https://audreywatters.s3.amazonaws.com/logo-white-large.jpg" />
     <itunes:subtitle><![CDATA[{{ site.subtitle }}]]></itunes:subtitle>
     <itunes:author>{{ site.author }}</itunes:author>
     <itunes:summary><![CDATA[{{ site.description | xml_escape }}]]></itunes:summary>
