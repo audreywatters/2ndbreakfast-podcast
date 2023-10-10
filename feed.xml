@@ -6,7 +6,6 @@ layout: null
   <channel>
     <title>{{ site.title }}</title>
     <description><![CDATA[{{ site.description | xml_escape }}]]></description>
-    <link>{{ site.url }}</link>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <ttl>120</ttl>
