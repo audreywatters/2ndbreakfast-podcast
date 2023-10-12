@@ -2,12 +2,27 @@
   summary: "Welcome to the first episode of the Second Breakfast podcast, where Audrey Watters and guests discuss food and fitness technologies."
   description: "Welcome to the Second Breakfast podcast. This is simply a short introduction to the show."
   subtitle: "The Second Breakfast Podcast"
-  image: /assets/images/second-breakfast-600.jpeg
+  image: /assets/images/logo-color.png
   audio_file: https://audreywatters.s3.amazonaws.com/secondbreakfast-2023-10-09.mp3
   audio_length: 4321197
   duration: '0:03:00'
   publish_date: "2023-10-09 10:00:00"
   url: 2023/10/09/episode-1
+  tags:
+  - Technology
+  - Politics
+  - Fitness
+  - Food
+- title: "The Second Breakfast Podcast Episode 2"
+  summary: "Welcome to the Second Breakfast podcast, where Audrey Watters and Margarita Smith discuss yoga, technology, and trauma."
+  description: "Audrey Watters and yogi Margarita Smith discuss graduate school, food, yoga, technology, and health, as Margarita talks about how she went from kidney transplant to yogi (while trying to avoid white lady microagressions in Portland, Oregon)."
+  subtitle: "The Second Breakfast Podcast"
+  image: /assets/images/logo-color.png
+  audio_file: https://audreywatters.s3.amazonaws.com/secondbreakfast-2023-10-12.mp3
+  audio_length: 55965279
+  duration: '0:38:52'
+  publish_date: "2023-10-12 06:00:00"
+  url: 2023/10/12/episode-2
   tags:
   - Technology
   - Politics
