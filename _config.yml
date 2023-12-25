@@ -12,7 +12,7 @@ email: "audrey.watters@gmail.com"
 logo: "/assets/images/egg.png"
 logo2: "/assets/images/logo-color.png"
 cover: "/assets/images/cover.jpg"
-covercredits: "http://2ndbreakfast.substack.com"
+covercredits: "http://podcast.2ndbreakfast.substack.com"
 
 name: "Second Breakfast"
 author: "Audrey Watters"
@@ -25,7 +25,7 @@ paginate:	5
 paginate_path: "/blog/page:num"
 permalink: "/:categories/:year/:month/:day/:title"
 
-url: "http://2ndbreakfast.me" # the base hostname & protocol for your site
+url: "http://podcast.2ndbreakfast.me" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 #twitter_handle: '@contrafabulists'
@@ -61,7 +61,7 @@ social:
  #   share_link:
 
   - icon: rss
-    url:  http://2ndbreakfast.me/blog.xml
+    url:  http://podcast.2ndbreakfast.me/blog.xml
     desc: Subscribe
     share_url:
     share_title:
