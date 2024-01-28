@@ -43,3 +43,18 @@
   - Politics
   - Fitness
   - Food  
+- title: "The Second Breakfast Podcast Episode 4"
+  summary: "Welcome to the Second Breakfast podcast, where Audrey Watters and Sherri Spelic discuss running, PE class, technology, and aging."
+  description: "Audrey Watters and PE teacher and leadership coach Sherri Spelic discuss running, PE class, technology, and aging. Audrey talks about her experiences doing a group running class that focuses on speed, and Sherri talks about her history as a mid-distance runner."
+  subtitle: "The Second Breakfast Podcast"
+  image: /assets/images/logo-color.png
+  audio_file: https://audreywatters.s3.amazonaws.com/secondbreakfast-2024-01-28.mp3
+  audio_length: 86816310
+  duration: '1:00:17'
+  publish_date: "2024-01-28 06:00:00"
+  url: 2024/01/28/episode-4
+  tags:
+  - Technology
+  - Politics
+  - Fitness
+  - Food    
