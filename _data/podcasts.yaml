@@ -57,4 +57,19 @@
   - Technology
   - Politics
   - Fitness
-  - Food    
+  - Food  
+- title: "The Second Breakfast Podcast Episode 5"
+  summary: "Welcome to the Second Breakfast podcast, where Audrey Watters and Mike Caulfield discuss digital literacy, misinformation, and Peloton."
+  description: "Audrey Watters and digital literacy researcher Mike Caulfield discuss how to navigate 'the news' online, how and why we trust (and mistrust) institutions, and what to do about Mike's Peloton subscription."
+  subtitle: "The Second Breakfast Podcast"
+  image: /assets/images/logo-color.png
+  audio_file: https://audreywatters.s3.amazonaws.com/secondbreakfast-2024-03-25.mp3
+  audio_length: 67164286
+  duration: '0:46:38'
+  publish_date: "2024-03-25 06:00:00"
+  url: 2024/03/25/episode-5
+  tags:
+  - Technology
+  - Politics
+  - Fitness
+  - Food      
